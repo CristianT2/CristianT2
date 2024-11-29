@@ -15,7 +15,7 @@
 ###
 <br>
 <h2>
-  :rocket: Tecnologias 
+  :rocket: Tecnologías 
 </h2> 
 
 <div>
@@ -49,9 +49,9 @@
 </h2> 
   <br>
    <div>
-     <p align="center">
+     <p>
       <a href="https://skillicons.dev">
-      <img height=65px src="https://skillicons.dev/icons?i=idea,eclipse,vscode,postman,docker,git,github,gitlab,linux," />
+      <img height=65px src="https://skillicons.dev/icons?i=idea,eclipse,vscode,postman,docker,git,github,gitlab,linux" />
       </a>
     </p>
    </div>
@@ -68,10 +68,20 @@
 </p>
 <br>
 <h2>
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   Conecta Conmigo
 </h2> 
 <br>
-<a href="https://linkedin.com/in/cristian-torrejon-dev"><img alt="Linkedin" title="Cristian Torrejón Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:c.torrejon96@gmail.com"><img alt="Gmail" title="Cristian Torrejon Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
+<a href="https://linkedin.com/in/cristian-torrejon-dev">
+  <img alt="Linkedin" title="Cristian Torrejón Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 32px />
+</a>
+<a href="mailto:c.torrejon96@gmail.com">
+  <img alt="Gmail" title="Cristian Torrejon Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=32px />
+</a>
+<a href="https://discord.gg/.cristiant1">
+  <img alt="Discord" title="Cristian Torrejon Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height = 32px />
+</a>
+<a href="https://t.me/Cristian_T12">
+  <img alt="Telegram" title="Cristian Torrejon Telegram" src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" height = 32px />
+</a>
 
